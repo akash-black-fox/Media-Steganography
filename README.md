@@ -24,7 +24,7 @@
 
 ### 1. Clone the repository:
 ```bash
-git clone [https://github.com/akash-black-fox/Media-Steganography.git](https://github.com/akash-black-fox/Media-Steganography.git)
+git clone https://github.com/akash-black-fox/Media-Steganography.git
 cd Media-Steganography
 
 ```
